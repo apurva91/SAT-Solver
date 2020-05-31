@@ -1,0 +1,4 @@
+s SATISFIABLE
+v -1 2 -3 4 5 -6 7 -8 9 -10 -11 -12 -13 -14 -15 16 17 -18 19 -20 0
+c File:test_cases/uf20-01000.cnf
+c Branches:4 Implications:29 Time:0.008078813552856445
